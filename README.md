@@ -1,6 +1,7 @@
 # Java Certificate Projects
 This repository includes all my work while working towards my Oracle Certified Professional Java SE 17 Developer certificate
 
+![Imaging showing my official certifcate for Java SE 17](Java_Certificate.jpg)
 
 ## What I had to know
 **Handling date, time, text, numeric and boolean values:**
