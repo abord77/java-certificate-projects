@@ -1,5 +1,5 @@
 # Java Certificate Projects
-This repository includes all my work while working towards my Java SE 17 Developer certificate
+This repository includes all my work while working towards my Oracle Certified Professional Java SE 17 Developer certificate
 
 
 ## What I had to know
